@@ -22,6 +22,8 @@ I am a fullstack software engineer from the Netherlands
 <img align="left" alt="html" src="https://img.shields.io/badge/html-critical?logo=html5&logoColor=white&style=for-the-badge" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis%20-red.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img align="left" alt="redis" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
   </div>
 <br>
 <br>
