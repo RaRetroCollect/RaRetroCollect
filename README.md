@@ -2,6 +2,7 @@
 I am a fullstack software engineer from the Netherlands
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🔭 Working on caching system based on Redis
+- 🔭 Building Offline-first PWA in React
 - 🌱 Learning design patterns in depth
 <br>
 
